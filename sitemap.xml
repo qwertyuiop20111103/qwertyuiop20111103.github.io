@@ -175,7 +175,7 @@
 
   <url>
     <loc>https://www.fomal.cc/</loc>
-    <lastmod>2023-12-22</lastmod>
+    <lastmod>2023-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,21 +183,21 @@
   
   <url>
     <loc>https://www.fomal.cc/tags/Markdown/</loc>
-    <lastmod>2023-12-22</lastmod>
+    <lastmod>2023-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-12-22</lastmod>
+    <lastmod>2023-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.fomal.cc/tags/%E6%91%B8%E9%B1%BC/</loc>
-    <lastmod>2023-12-22</lastmod>
+    <lastmod>2023-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -206,14 +206,14 @@
   
   <url>
     <loc>https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-12-22</lastmod>
+    <lastmod>2023-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.fomal.cc/categories/%E6%91%B8%E9%B1%BC/</loc>
-    <lastmod>2023-12-22</lastmod>
+    <lastmod>2023-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
